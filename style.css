@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    width: 30%;
+    margin:15% auto;
+    border-radius: 20px ;
+    background-color: white;
+}
+body{
+    background-color: blanchedalmond;
+}
+.box{
+    margin-left: 145px;
+    padding: 20px;
+}
+.color{
+    width: 70px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: black;
+}
+span{
+    position: relative;
+    top: 10px;
+    left: -75px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    background-color:rgb(175, 153, 153);
+}
